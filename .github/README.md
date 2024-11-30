@@ -18,7 +18,7 @@
         Hi, I'm Hasnain Khan. I am passionate about software development with expertise in Python and various web technologies. Explore my projects and feel free to connect with me!
       </p>
     </div>
-    <img src="https://files.catbox.moe/m1owet.jpg" width="200" alt="Profile Image">
+    <img src="https://files.catbox.moe/tlqhkf.jpg" width="200" alt="Profile Image">
   </div>
 </div>
 
